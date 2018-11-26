@@ -1,3 +1,7 @@
+# vue_element实现表单信息管理系统
+
+> 用到的东东 vue.js 、element、php、mysql以及相关vue插件等
+
 # element
 
 > A Vue.js project
