@@ -312,7 +312,7 @@
           if (value.indexOf("bd")>=0) return '百度';
           if (value=='') return '自媒体';
           if (value=='无') return '';
-          if (value=='http://m.csxinhua.com/') return '手机首页';
+          if (value=='') return '手机首页';
           value = value.toString();
           return value;
         },
