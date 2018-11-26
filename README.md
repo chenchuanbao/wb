@@ -26,7 +26,7 @@
 
 # 页面效果
 
-![](https://github.com/Chencb1991/wb/blob/master/demo/4.gif)
+![](https://github.com/Chencb1991/wb/blob/master/demo/1.gif)
 
 
 ### 项目包不带数据接口,默认前端效果,写的比较LOW,适合小白参考
